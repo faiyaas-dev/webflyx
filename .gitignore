@@ -1,2 +1,10 @@
-guilty_pleasures.md
-secure/passwords.txt
+# *.js
+
+*.txt
+!names.txt
+
+/src/main.py
+
+content.md
+
+advert.html
